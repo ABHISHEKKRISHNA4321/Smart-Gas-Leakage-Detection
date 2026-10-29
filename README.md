@@ -25,3 +25,6 @@ Cloud Platform: ThingSpeak IoT
 | | Negative (`-`) | `GND` | Common Ground |
 | **Red LED & Resistor** | Anode (`+`) *via Resistor* | `GPIO 16` | Triggers visual alert |
 | | Cathode (`-`) | `GND` | Common Ground |
+
+# Circuit Simulation
+<img width="958" height="827" alt="Screenshot 2026-10-29 205428" src="https://github.com/user-attachments/assets/84dee8e8-df1d-4fe9-9d08-714260480477" />
