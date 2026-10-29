@@ -11,7 +11,7 @@ Alert Actuators: Active Buzzer & Red LED (with 220Ω current-limiting resistor)
 
 Cloud Platform: ThingSpeak IoT
 
-#Circuit Connections
+# Circuit Connections
 | Component | Component Pin | ESP32 Pin | Description |
 | :--- | :--- | :--- | :--- |
 | **MQ-2 Gas Sensor** | `VCC` | `5V` (`VIN`) | Sensor heater power supply |
