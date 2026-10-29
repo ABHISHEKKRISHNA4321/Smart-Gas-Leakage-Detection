@@ -4,6 +4,9 @@ This project is an IoT-enabled safety system designed to detect gases in real ti
 Microcontroller: ESP32 Development Board
 
 Gas Sensor: MQ-2 (Detects LPG, smoke, methane, etc.)
+
 Sensitivity Control: Potentiometer (for dynamic threshold adjustment)
+
 Alert Actuators: Active Buzzer & Red LED (with 220Ω current-limiting resistor)
+
 Cloud Platform: ThingSpeak IoT
