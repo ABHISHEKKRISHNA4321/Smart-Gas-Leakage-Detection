@@ -28,3 +28,13 @@ Cloud Platform: ThingSpeak IoT
 
 # Circuit Simulation
 <img width="958" height="827" alt="Screenshot 2026-10-29 205428" src="https://github.com/user-attachments/assets/84dee8e8-df1d-4fe9-9d08-714260480477" />
+
+# Project Team
+
+| Roll Number | Name |
+| :--- | :--- |
+| `13030824005` | Abhishek Krishna |
+| `13030824004` | Aayush Vardhan |
+| `13030824003` | Aditya Raj |
+| `13030824002` | Aditya Raj |
+| `13030824001` | Aditya Kumar |
